@@ -10,6 +10,6 @@ In this session, you will learn :
 
 1. [Introduction](./docs/introduction)
 2. [Install](./docs/install)
-3. [Codegen](./docs/codegen)
+3. [Codegen](./docs/codegen/README.md)
 4. [Locators](./docs/locators)
 5. [Web-first assertions](./docs/web-first-assertions)
