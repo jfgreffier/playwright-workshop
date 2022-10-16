@@ -8,8 +8,8 @@ In this session, you will learn :
 - Make relevant and robust selectors that do not rely on implementation
 - Impress your colleagues with fast tests, on the most popular browsers
 
-1. [Introduction](introduction.md)
-2. [Install](install.md)
-3. [Codegen](codegen.md)
-4. [Locators](locators.md)
-5. [Web-first assertions](web-first-assertions.md)
+1. [Introduction](./docs/introduction)
+2. [Install](./docs/install)
+3. [Codegen](./docs/codegen)
+4. [Locators](./docs/locators)
+5. [Web-first assertions](./docs/web-first-assertions)
