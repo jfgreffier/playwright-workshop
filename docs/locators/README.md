@@ -53,7 +53,7 @@ https://playwright.dev/docs/selectors#best-practices
 ## Advanced locators 👩‍💻
 https://playwright.dev/docs/selectors#selecting-elements-that-contain-other-elements
 
-![[image13.png]]
+![Playwright logo](../images/image13.png)
 
 ```js
 await page

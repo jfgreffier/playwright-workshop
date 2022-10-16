@@ -6,7 +6,7 @@ Playwright Test is an amazing solution for end-to-end browser testing. In this a
 
 Playwright is an open-source project maintained and sponsored by Microsoft. It offers a unified API that can drive the main web browsers: Chromium, Webkit and Firefox. The project started in 2020, but is based on several principles of Puppeteer, the famous tool to automate Chrome headless (without GUI). Indeed, part of the team left Google to create a more ambitious solution, supporting the most popular browser families. Playwright not only automates browsers, but also facilitates reliable end-to-end testing for the modern web.
 
-![Playwright logo](image1.png)
+![Playwright logo](../images/image1.png)
 
 ## Requirements
 ### System requirements
