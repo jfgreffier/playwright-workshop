@@ -8,5 +8,6 @@
 ### HTML report
 ## Does not always generate great selectors
 
+---
 References  
-https://playwright.dev/docs/codegen-intro#running-codegen  
+<https://playwright.dev/docs/codegen-intro#running-codegen>  

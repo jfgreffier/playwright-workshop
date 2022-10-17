@@ -39,5 +39,6 @@ npx playwright test --trace on
 npx playwright show-report
 ```
 
+---
 References  
-https://playwright.dev/docs/getting-started-vscode  
+<https://playwright.dev/docs/getting-started-vscode>  
