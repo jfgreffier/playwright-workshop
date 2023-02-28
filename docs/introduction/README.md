@@ -29,11 +29,11 @@ INFO
 Salut
 :::
 
->ℹ️ note
->Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.
+>**ℹ️ note**  
+>Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.  
 
 >ℹ️ note
->Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.
+>Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.  
 >
 
 ---
