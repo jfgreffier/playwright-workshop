@@ -20,6 +20,22 @@ Playwright requires [Node.js](https://nodejs.org) 14 or higher. I recommend usin
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Official [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) extension
 
+::: warning
+*here be dragons*
+:::
+
+::: tip
+INFO
+Salut
+:::
+
+>ℹ️ note
+>Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.
+
+>ℹ️ note
+>Seulement Debian 11, Ubuntu 20.04 et 22.04 sont supportées officielement.
+>
+
 ---
 References  
 <https://playwright.dev/docs/troubleshooting>  
