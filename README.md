@@ -10,10 +10,10 @@ In this session, you will learn :
 
 ## Plan
 1. [Introduction](docs/introduction/)
-2. Install
-3. Codegen
-4. Locators
-5. Web-first assertions
+2. [Install](docs/install/)
+3. [Codegen](docs/codegen/)
+4. [Locators](docs/locators/)
+5. [Web-first assertions](docs/web-first-assertions/)
 6. Debug
 
 ---
