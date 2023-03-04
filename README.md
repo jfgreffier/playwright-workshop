@@ -9,7 +9,7 @@ In this session, you will learn :
 - Impress your colleagues with fast tests, on the most popular browsers
 
 ## Plan
-1. [Introduction](docs/introduction/README.md)
+1. [Introduction](docs/introduction/)
 2. Install
 3. Codegen
 4. Locators
