@@ -29,7 +29,6 @@ await expect(page.getByText('Welcome, John!')).toBeVisible();
   ```javascript
   console.log("I'm a code block!");
   ```
-  
 </details>
 
 
