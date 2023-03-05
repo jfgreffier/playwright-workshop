@@ -19,6 +19,40 @@ await page.getByRole('button', { name: 'Sign in' }).click();
 await expect(page.getByText('Welcome, John!')).toBeVisible();
 ```
 
+## Selector
+
+
+```ts
+// Sample from Debbie
+await paga.locator('data-test-id=directions').click();
+//         ⮬ Locator ⮬ Selector
+```
+
+```ts
+// Sample from Debbie
+await paga.locator('data-test-id=directions').click();
+//         ⮤ Locator ⮤ Selector
+```
+
+```ts
+// Sample from Debbie
+await paga.locator('data-test-id=directions').click();
+//         Locator  Selector
+```
+
+```ts
+// Sample from Debbie
+await paga.locator('data-test-id=directions').click();
+//         ↑ Locator ↑ Selector
+```
+
+```ts
+// Sample from Debbie
+await paga.locator('data-test-id=directions').click();
+//         ⬆ Locator ⬆️ Selector
+```
+
+
 ### click
 
 <details>
