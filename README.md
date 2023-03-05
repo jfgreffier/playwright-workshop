@@ -16,6 +16,11 @@ In this session, you will learn :
 5. [Web-first assertions](docs/web-first-assertions/)
 6. Debug
 
+
+Keys test :  
+<kbd>⇧ Shift</kbd> + <kbd>⌃ Control</kbd> + <kbd>P</kbd>  
+`Ctrl`+ `Shift` + `P`
+
 ---
 # Plus d'excuses pour ne pas faire de tests end-to-end : Playwright en pratique
 Les tests end-to-end sont peu utilisés car réputés lents, fragiles et difficiles à écrire et à maintenir. Ils seraient tellement contraignants pour les devs que l'on a même inventé le métier d'automaticien-e. Venez vous réconcilier avec les tests web grâce à Playwright!  
