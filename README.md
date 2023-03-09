@@ -14,7 +14,7 @@ In this session, you will learn :
 3. [Codegen](docs/codegen/)
 4. [Locators](docs/locators/)
 5. [Web-first assertions](docs/web-first-assertions/)
-6. Debug
+6. [Debug](docs/debugger/README.md)
 
 
 Keys test :  
