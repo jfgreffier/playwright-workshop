@@ -15,6 +15,7 @@ In this session, you will learn :
 4. [Locators](docs/locators/)
 5. [Web-first assertions](docs/web-first-assertions/)
 6. [Debug](docs/debugger/README.md)
+1. [Locators avancés](docs/locators-advanced/README.md)
 
 
 Keys test :  
